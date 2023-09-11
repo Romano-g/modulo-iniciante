@@ -1,5 +1,5 @@
-    #   0123
-nome = 'Vitorinha'
+#   0123
+nome = 'Romano'
 #      -4321
 
 tamanho_nome = len(nome)
